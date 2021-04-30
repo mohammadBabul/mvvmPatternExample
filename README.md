@@ -1,4 +1,4 @@
-# Android MVVM Architecture Sample Project(Evaly Assignment)
+# Android MVVM Architecture Sample Project
 
 * Retrofit
 * Java
