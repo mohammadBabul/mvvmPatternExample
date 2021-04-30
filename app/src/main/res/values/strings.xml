@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MvvmExample</string>
+    <string name="home">Home</string>
+    <string name="notifications">Notifications</string>
+    <string name="account">Account</string>
+    <string name="orders">Orders</string>
+    <string name="top_shops">Top Shops</string>
+    <string name="top_brands">Top Brands</string>
+    <string name="top_products">Top Products</string>
+    <string name="name">name</string>
+    <string name="image">image</string>
+    <string name="load_more_items">Load more brands</string>
+    <string name="welcome_to">welcome to</string>
+    <string name="evaly_demo">Evaly Demo App</string>
+</resources>
